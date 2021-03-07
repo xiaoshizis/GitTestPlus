@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 textView.setText("The SecondBranch");
+                textView.setText("this is changed by xiaoshizis");
+                textView.setText("this is changed by xiaoshizis again");
             }
         });
     }
